@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://adrianmnh.github.io/site1/site1/sitemap.xml
